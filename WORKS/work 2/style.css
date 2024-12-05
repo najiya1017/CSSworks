@@ -1,0 +1,32 @@
+*{
+    margin: 10px;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-block{
+    border:1px solid black;
+    width: 50%;
+    height: 100%;
+    padding: 10%;
+}
+
+.image{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.paragraph{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    padding: 2%;
+    color: rgb(69, 69, 69);
+}
+

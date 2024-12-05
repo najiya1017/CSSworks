@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+}
+.text-green{
+    color:green;
+    
+}
+.text-white{
+    color: white;
+}
+.text-centre{
+    text-align: center;
+}
